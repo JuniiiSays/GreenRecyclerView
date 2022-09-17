@@ -16,7 +16,8 @@
 package com.example.android.recyclerview;
 
 import android.content.Context;
-import androidx.appcompat.widget.RecyclerView;
+import androidx.recyclerview.widget.RecyclerView;
+
 import android.util.Log;
 import android.view.LayoutInflater;
 import android.view.View;
